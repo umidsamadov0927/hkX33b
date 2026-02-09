@@ -1,0 +1,7 @@
+username: faxriddinovch7
+id: 7456514958
+phone: +447529386396
+session: None
+2fa: yuq
+registration_time: 2026-01-12 14:30:49
+--------------------
