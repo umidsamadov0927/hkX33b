@@ -3,3 +3,4 @@ requests
 Pillow
 instaloader
 aiohttp
+deep_translator
